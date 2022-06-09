@@ -1,0 +1,7 @@
+﻿  restaurant.cpp
+F:\dzy\restaurant_management\restaurant_management\restaurant.cpp(219,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+F:\dzy\restaurant_management\restaurant_management\restaurant.cpp(889,17): warning C4101: “price”: 未引用的局部变量
+F:\dzy\restaurant_management\restaurant_management\restaurant.cpp(1059,47): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\dzy\restaurant_management\restaurant_management\restaurant.cpp(1093,47): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\dzy\restaurant_management\restaurant_management\restaurant.cpp(1627,16): warning C4477: “printf”: 格式字符串“%5.2f”需要类型“double”的参数，但可变参数 2 拥有了类型“const char *”
+  restaurant_management.vcxproj -> F:\dzy\restaurant_management\Debug\restaurant_management.exe
